@@ -19,7 +19,6 @@ I used Python and the Arcade library to create this game.
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
 * [Piskelapp](https://www.piskelapp.com/)
 * [Python Arcade](https://api.arcade.academy/en/latest/)
 
